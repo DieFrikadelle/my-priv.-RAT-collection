@@ -1,4 +1,9 @@
-         Eagle Monitor RAT Reborn | The Best RAT 
+         Eagle Monitor RAT Reborn | The Best RAT
+        
+![Remote-Shellcode-Injection-Option](https://github.com/user-attachments/assets/53a184eb-1ca8-4765-8672-78544988c325)
+![EagleMonitorRAT-Client-Builder-Panel](https://github.com/user-attachments/assets/36cba261-8128-4d45-ae02-74566ae8b512)
+![Administration-Panel-of-EagleMonitorRAT](https://github.com/user-attachments/assets/c1d7f07a-8f8b-4e8d-842e-225a32de1e3c)
+ 
 Features:
 
     Passwords recovery
