@@ -1,0 +1,64 @@
+IB-BUILT Killing Library currently supports following AVS/Firewalls:
+
+
+FIREWALLS
+
+WinXP Firewall
+ZoneAlarm
+BlackIce
+Norton Personal Firewall
+McAfee Firewall
+McAfee Internet Security
+ConSeal PC Firewall
+Tiny Personal Firewall
+Lockdown
+Sphinx
+Net Protect
+Sygate Personal Firewall 4.1
+Lockdown Pro
+
+
+AVS
+
+Norton AntiVirus
+Sophos AntiVirus
+McAfee Virus Scan
+AVG Anti-Virus 6
+AntiViral Toolkit Pro
+Kaspersky Anti Virus
+Panda Antivirus 6.0 Platinum
+Panda Antivirus 
+Ants
+Anti-Trojan
+WinRoute
+The Cleaner
+AntiVirus ExPert 2000 (AVX)
+AVG Anti-Virus 6
+pc-cillan 98
+PCCWIN98.EXEpc-cillan 98
+pc-cillan
+trojan defence suit 3
+PC Door Guard 2
+RAV 7
+TrendMicro OfficeScan
+Norman AVS
+InoculateIT Personal Edition
+Inoc DOSSCANNER
+G-Data AntiVirenKit ( German Program )
+F-Secure Anti-Virus for Windows 95
+F-Secure Anti-Virus for Windows
+Spy X
+AT AVS
+German Process Viewer
+Doctor Solomon AVS
+Lockdown Pro
+T-FAK Trojan Remover
+neolog
+Cheyenne AntiVirus
+VirusBuster
+Panda Titanium
+wild file goback
+AntiVir (German)
+Acceleration Software AV
+
+
